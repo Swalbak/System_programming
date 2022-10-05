@@ -1,3 +1,4 @@
+// 4. 연습문제 3번을 fread와 fwrite 함수를 사용해 동일한 결과를 출력하도록 작성하라.
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>

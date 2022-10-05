@@ -1,3 +1,4 @@
+// 2. 저수준 파일 입출력을 이용해 파일을 복사하는 프로그램을 작성하라. 파일명은 명령행 인자로 받는다.
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>

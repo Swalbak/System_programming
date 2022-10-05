@@ -1,3 +1,4 @@
+// 3. lseek 함수를 사용해 데이터 파일을 읽고 아래 출력 형태와 같이 출력하는 프로그램을 작성하라.
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
